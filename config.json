@@ -1,0 +1,9 @@
+{
+  "mode": "local",
+  "port": 8080,
+  "host": "127.0.0.1",
+  "lan_interfaces": [],
+  "data_dir": "./data",
+  "assets_dir": "./assets",
+  "logs_dir": "./logs"
+}

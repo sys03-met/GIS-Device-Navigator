@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-portable/
+build/
+*.log
+.DS_Store
+data/*.db
+data/*.sqlite
+temp_*.db
