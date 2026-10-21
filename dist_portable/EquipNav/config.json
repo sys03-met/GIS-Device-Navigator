@@ -1,0 +1,8 @@
+{
+  "mode": "local",
+  "port": 8080,
+  "host": "127.0.0.1",
+  "dataDir": "./data",
+  "dbPath": "./data/equipment.db",
+  "osrmPath": "./data/osrm/korea-car.osrm"
+}
